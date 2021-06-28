@@ -1,0 +1,159 @@
+body{
+    background:linear-gradient(to bottom,#39A2DB,#A2DBFA,#E8F0F2);
+    background-attachment: fixed;
+    height:100%;
+    overflow-x: hidden;
+}
+.mypic{
+    text-align: center;
+}
+.navbar{
+    background-color: rgba(0,0,0,0.0225);
+}
+.nav-link{
+    padding: 10px;
+    font-size: 20px;
+    color:#0A1931;
+}
+.heading{
+    text-align: center;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.show{
+    background-color:transparent ;
+}
+.dropdown-item{
+    background-color: transparent;
+    color:white;
+}
+.dropdown-menu .dropdown-item:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+.carousel{
+    margin:15px 10px;
+}
+.carousel img{
+    height: 200px;
+    width:100%;
+}
+.hobby{
+    text-align: center;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+ul li{
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:22px;
+}
+.mypic img{
+    height: 170px;
+    width: 150px;
+    border-radius: 50%;
+    border:2px solid #0A1931;
+    box-shadow: 4px 4px 2px 1px #0A1931;
+}
+.mypic img:hover{
+    transform:scale(1.10);
+}
+.myname{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 550;
+    margin-top: 12px;
+    font-family: 'Playfair Display';
+}
+.myname p{
+    margin-bottom: 0px;
+}
+.main{
+    border:1px solid lightblue;
+    background-color:transparent;
+    padding: 20px;
+    border-radius: 20px
+}
+h9{
+    font-weight: 100;
+    font-size: 14.5px;
+    margin-bottom: 10px;
+}
+.ed{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    background-color:rgba(0,0,0,0.035) ;
+    padding: 10px;
+    border-radius:8px;
+}
+.socialmedia,.contact,.address{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    margin-top: 10px;
+}
+.socialmedia .fa-instagram{
+    background:linear-gradient(to bottom, #cd486b,#e95950,#bc2a8d,#fccc63,#fbad50);
+    height: 100%;
+    background-attachment: fixed;
+    color: white;
+    padding: 8px;
+    margin: 10px;
+}
+.address .fa-map-marker{
+    color:red;
+}
+#mybtn{
+    padding: 10px;
+}
+.contact .fa-envelope{
+    color: black;
+    padding: 8px;
+    margin: 10px;
+}
+.contact .fa-whatsapp{
+    color: green;
+    padding: 8px;
+    margin: 10px;
+}
+.contact .fa-phone{
+    color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+.socialmedia .fa-facebook{
+    background-color: #4267B2;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.socialmedia .fa-linkedin{
+    background-color: #0077b5;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.socialmedia i:hover,.contact i:hover, .address i:hover{
+    font-size: 30px;
+}
+.address{
+    margin-top:10px;
+}
+.add{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:10px;
+}
+.ed ul li{
+    text-align: center;
+}
+.mtpbtn{
+    font-size: 18px;
+    margin: 2.5px;
+}
+span{
+    margin: 5px;
+}
